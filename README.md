@@ -7,3 +7,6 @@ https://drive.google.com/file/d/1Ksy9pGAoq0G59FCS3t_jY3mj03C57C1l/view
 
 Labelled dataframe:-
 https://drive.google.com/file/d/1o6VsbZWrg9HC-hnHOw-HITkeSkFOhBj9/view
+
+feature extracted csv file:-
+https://drive.google.com/file/d/1ln1jbjPjgnyXGi_2wyOF272hsHzMeAFb/view?usp=sharing
